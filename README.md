@@ -18,9 +18,13 @@ Slicers: Enhances visualization interactivity.
 ### Key Insights
 Sales by Roast type name like Dark ,medum,light
 Sales by country:
+
 United sates: Total sales of $35639
+
 Ireland: Total sales of $6697
+
 United kingdom: Total sales of $2799
+
 Top 5 customers 
 
 Here we used line chart to see the coffee sales over time for different coffee types.Bar chart for top 5 customers who showed more interest to puchase the coffee . And then we used again bar chart for country wise sales.Here united states is the top country in coffee sales then Ireland then United Kingdom.
