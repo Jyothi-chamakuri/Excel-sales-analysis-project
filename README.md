@@ -9,10 +9,15 @@ This project focuses on analyzing and visualizing coffee shop sales data to unco
 
 ### Features Used:
 Microsoft Excel: The cornerstone for data organization and manipulation.
+
 Power Query: Ensures clean and transformed data.
+
 Power Pivot: Enables data modeling and measure calculations.
+
 Pivot Tables: Summarizes and filters top-performing data.
+
 Charts & Graphs: Visualizes trends for better understanding.
+
 Slicers: Enhances visualization interactivity.
 
 ### Key Insights
