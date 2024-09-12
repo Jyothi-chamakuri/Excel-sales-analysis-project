@@ -17,6 +17,7 @@ Slicers: Enhances visualization interactivity.
 
 ### Key Insights
 Sales by Roast type name like Dark ,medum,light
+
 Sales by country:
 
 United sates: Total sales of $35639
